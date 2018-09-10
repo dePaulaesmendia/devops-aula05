@@ -1,5 +1,5 @@
 #testes.py
-Import jogovelha
+import jogovelha
 import sys
 
 erroInicializar = False
